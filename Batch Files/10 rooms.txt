@@ -1,0 +1,13 @@
+
+[
+{"rooms":[{"Building":"LT","name":"room1","meetings":[{"startTime":"2018-1-10 10:10:00.0","stopTime":"2018-1-11 10:10:00.0","subject":"meeting1"}],
+{"rooms":[{"Building":"LT","name":"room2","meetings":[{"startTime":"2018-2-11 11:11:00.0","stopTime":"2018-2-12 11:11:00.0","subject":"meeting2"}],
+{"rooms":[{"Building":"LT","name":"room3","meetings":[{"startTime":"2018-3-12 12:12:00.0","stopTime":"2018-3-13 12:12:00.0","subject":"meeting3"}],
+{"rooms":[{"Building":"LT","name":"room4","meetings":[{"startTime":"2018-4-13 13:13:00.0","stopTime":"2018-4-14 13:13:00.0","subject":"meeting4"}],
+{"rooms":[{"Building":"LT","name":"room5","meetings":[{"startTime":"2018-5-14 14:14:00.0","stopTime":"2018-5-15 14:14:00.0","subject":"meeting5"}],
+{"rooms":[{"Building":"LT","name":"room6","meetings":[{"startTime":"2018-6-15 15:15:00.0","stopTime":"2018-6-16 15:15:00.0","subject":"meeting6"}],
+{"rooms":[{"Building":"LT","name":"room7","meetings":[{"startTime":"2018-7-16 16:16:00.0","stopTime":"2018-7-17 16:16:00.0","subject":"meeting7"}],
+{"rooms":[{"Building":"LT","name":"room8","meetings":[{"startTime":"2018-8-17 17:17:00.0","stopTime":"2018-8-18 17:17:00.0","subject":"meeting8"}],
+{"rooms":[{"Building":"LT","name":"room9","meetings":[{"startTime":"2018-9-18 18:18:00.0","stopTime":"2018-9-19 18:18:00.0","subject":"meeting9"}],
+{"rooms":[{"Building":"LT","name":"room10","meetings":[{"startTime":"2018-10-19 19:19:00.0","stopTime":"2018-10-20 19:19:00.0","subject":"meeting10"}],
+)]
